@@ -1,2 +1,2 @@
 # Mushroom-Classification-using-Machine-Learning-Algorithms
-This repository contains Python code for classifying mushrooms as edible or poisonous using various machine learning algorithms.
+This repository contains Python code for classifying mushrooms as edible or poisonous using various machine learning algorithms such as Logistic Regression, Ridge Classifier, Decision Tree, Gaussian Naive Bayes, Neural Networks, Support Vector Machine, and Random Forest. The dataset used is the Mushroom Classification dataset from Repository. The code also includes data preprocessing steps such as label encoding and splitting the dataset into training and testing sets. The classification reports for each model are printed and compared for evaluation.
